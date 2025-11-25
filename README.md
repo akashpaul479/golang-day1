@@ -1,2 +1,2 @@
 # golang-day1
-test
+this is my day1 coding exercise
