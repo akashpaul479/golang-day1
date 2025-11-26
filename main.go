@@ -26,6 +26,8 @@ func main() {
 	// day2.Slices1()
 	// day2.Slices2()
 	// day2.Slices3()
-	day2.Smarks()
+	// day2.Smarks()
+	// day2.Loops5()
+	day2.Uniqueele()
 
 }
